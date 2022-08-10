@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/bin/Debug/net6.0/ceasarCipher
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/bin/Debug/net6.0/ceasarCipher.deps.json
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/bin/Debug/net6.0/ceasarCipher.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/bin/Debug/net6.0/ceasarCipher.dll
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/bin/Debug/net6.0/ceasarCipher.pdb
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.dll
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/refint/ceasarCipher.dll
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.pdb
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ceasarCipher.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/ceasarCipher/obj/Debug/net6.0/ref/ceasarCipher.dll
