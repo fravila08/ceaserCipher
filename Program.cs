@@ -25,7 +25,7 @@ namespace CaesarCipher
           encryptedMessage[i]= secretMessage[i];
         }
       }
-      Console.WriteLine("Your encrypted message is:")
+      Console.WriteLine("Your encrypted message is:");
       Console.WriteLine(encryptedMessage);
     }
   }
